@@ -41,18 +41,10 @@ Predict the likelihood of diabetes based on health indicators using a **Random F
 
 | Metric          | Value   |
 |-----------------|---------|
-| Accuracy        | XX.XX%  |
-| ROC-AUC Score   | 0.XX    |
+| Accuracy        | 0.81    |
+| ROC-AUC Score   | 0.90    |
 
-*(Replace with your actual evaluation results from Colab.)*
 
----
-
-##  Screenshot
-
-*(Add an image of your app here—take a screenshot of the running UI and save it as `screenshot.png` in your repo. It will render nicely below.)*
-
-![App Screenshot](screenshot.png)
 
 ---
 
